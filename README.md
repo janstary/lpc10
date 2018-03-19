@@ -2,7 +2,7 @@
 
 This implementation of LPC10 was extracted from
 [SoX](https://github.com/janstary/sox)
-where it has been since around 1996.
+where it has been bundled since around 1996.
 The point of this is to make LPC10 a separate library.
 
 ## Goals
